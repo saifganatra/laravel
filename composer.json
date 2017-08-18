@@ -1,0 +1,13 @@
+{
+    "name": "laraveldaily/timezones",
+    "description": "Demo-package to show time",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Saif Muhammad",
+            "email": "saif@nextgeni.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
