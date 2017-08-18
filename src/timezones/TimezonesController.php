@@ -9,7 +9,7 @@ class TimezonesController extends Controller
  
     public function index($timezone)
     {
-        echo Carbon::now($timezone)->toDateTimeString();
+        echo "Current time in ". $timezone. " is ".Carbon::now($timezone)->toDateTimeString();
     }
  
 }
